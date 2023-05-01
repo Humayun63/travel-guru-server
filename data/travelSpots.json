@@ -1,33 +1,147 @@
 [
     {
-      "id": 1,
-      "name": "Cox's Bazar",
-      "picture": "https://example.com/coxsbazar.jpg",
-      "description": "Cox's Bazar is a beach town located in the southeastern part of Bangladesh. It is known for its long sandy beach, which is one of the longest in the world."
+        "id": 1,
+        "name": "Cox's Bazar",
+        "picture": "https://example.com/coxsbazar.jpg",
+        "description": "Cox's Bazar is a beach town located in the southeastern part of Bangladesh. It is known for its long sandy beach, which is one of the longest in the world.",
+        "hotels": [
+            {
+                "name": "Hotel Sea Crown",
+                "picture": "https://example.com/hotel-sea-crown.jpg",
+                "description": "A beachfront hotel offering scenic views and direct access to Cox's Bazar Beach.",
+                "pricing": 100,
+                "bookings": 500
+            },
+            {
+                "name": "Hotel Beach Way",
+                "picture": "https://example.com/hotel-beach-way.jpg",
+                "description": "A luxury hotel with a pool, spa, and beach access.",
+                "pricing": 150,
+                "bookings": 300
+            },
+            {
+                "name": "Hotel Coral Reef",
+                "picture": "https://example.com/hotel-coral-reef.jpg",
+                "description": "A budget-friendly hotel with basic amenities and a great location near Cox's Bazar Beach.",
+                "pricing": 50,
+                "bookings": 1000
+            }
+        ]
     },
     {
-      "id": 2,
-      "name": "Sundarbans",
-      "picture": "https://example.com/sundarbans.jpg",
-      "description": "The Sundarbans is a mangrove forest located in the southwestern part of Bangladesh. It is home to the Royal Bengal Tiger and many other endangered species."
+        "id": 2,
+        "name": "Srimangal",
+        "picture": "https://example.com/srimangal.jpg",
+        "description": "Srimangal is a tea-growing area located in the northeastern part of Bangladesh. It is known for its lush green tea gardens and beautiful natural scenery.",
+        "hotels": [
+            {
+                "name": "Tea Resort Srimangal",
+                "picture": "https://example.com/tea-resort-srimangal.jpg",
+                "description": "A boutique hotel set amidst lush tea gardens offering a peaceful and relaxing stay.",
+                "pricing": 80,
+                "bookings": 200
+            },
+            {
+                "name": "Grand Sultan Tea Resort",
+                "picture": "https://example.com/grand-sultan-tea-resort.jpg",
+                "description": "A luxurious tea resort with a spa, pool, and beautiful gardens.",
+                "pricing": 200,
+                "bookings": 150
+            },
+            {
+                "name": "Green Hill Guest House",
+                "picture": "https://example.com/green-hill-guest-house.jpg",
+                "description": "A budget-friendly guest house offering basic amenities and a cozy atmosphere.",
+                "pricing": 30,
+                "bookings": 500
+            }
+        ]
     },
     {
-      "id": 3,
-      "name": "Srimangal",
-      "picture": "https://example.com/srimangal.jpg",
-      "description": "Srimangal is a small town located in the northeastern part of Bangladesh. It is known for its tea gardens and is often referred to as the 'tea capital' of Bangladesh."
+        "id": 3,
+        "name": "Srimangal",
+        "picture": "https://example.com/srimangal.jpg",
+        "description": "Srimangal is a small town located in the northeastern part of Bangladesh. It is known for its tea gardens and is often referred to as the 'tea capital' of Bangladesh.",
+        "hotels": [
+            {
+                "name": "Sundarban Tiger Camp",
+                "picture": "https://example.com/sundarban-tiger-camp.jpg",
+                "description": "A wilderness camp offering rustic accommodations and guided tours of the Sundarbans.",
+                "pricing": 120,
+                "bookings": 100
+            },
+            {
+                "name": "Hotel Sea Crown",
+                "picture": "https://example.com/hotel-sea-crown.jpg",
+                "description": "A beachfront hotel offering scenic views and direct access to Cox's Bazar Beach.",
+                "pricing": 100,
+                "bookings": 500
+            },
+            {
+                "name": "Hotel Beach Way",
+                "picture": "https://example.com/hotel-beach-way.jpg",
+                "description": "A luxury hotel with a pool, spa, and beach access.",
+                "pricing": 150,
+                "bookings": 300
+            }
+        ]
     },
     {
-      "id": 4,
-      "name": "Paharpur",
-      "picture": "https://example.com/paharpur.jpg",
-      "description": "Paharpur is an archaeological site located in the northern part of Bangladesh. It is home to the ruins of an ancient Buddhist monastery that dates back to the 8th century."
+        "id": 4,
+        "name": "Paharpur",
+        "picture": "https://example.com/paharpur.jpg",
+        "description": "Paharpur is an archaeological site located in the northern part of Bangladesh. It is home to the ruins of an ancient Buddhist monastery that dates back to the 8th century.",
+        "hotels": [
+            {
+                "name": "Hotel Coral Reef",
+                "picture": "https://example.com/hotel-coral-reef.jpg",
+                "description": "A budget-friendly hotel with basic amenities and a great location near Cox's Bazar Beach.",
+                "pricing": 50,
+                "bookings": 1000
+            },
+            {
+                "name": "Tea Resort Srimangal",
+                "picture": "https://example.com/tea-resort-srimangal.jpg",
+                "description": "A boutique hotel set amidst lush tea gardens offering a peaceful and relaxing stay.",
+                "pricing": 80,
+                "bookings": 200
+            },
+            {
+                "name": "Grand Sultan Tea Resort",
+                "picture": "https://example.com/grand-sultan-tea-resort.jpg",
+                "description": "A luxurious tea resort with a spa, pool, and beautiful gardens.",
+                "pricing": 200,
+                "bookings": 150
+            }
+        ]
     },
     {
-      "id": 5,
-      "name": "Sajek Valley",
-      "picture": "https://example.com/sajekvalley.jpg",
-      "description": "Sajek Valley is a scenic hill station located in the northwestern part of Bangladesh. It is known for its picturesque landscapes and is a popular destination for trekking and hiking."
+        "id": 5,
+        "name": "Sajek Valley",
+        "picture": "https://example.com/sajekvalley.jpg",
+        "description": "Sajek Valley is a scenic hill station located in the northwestern part of Bangladesh. It is known for its picturesque landscapes and is a popular destination for trekking and hiking.",
+        "hotels": [
+            {
+                "name": "Grand Hyatt New York",
+                "picture": "https://example.com/grand-hyatt.jpg",
+                "description": "A luxury hotel located in the heart of Midtown Manhattan, with easy access to popular tourist destinations.",
+                "pricing": 300,
+                "bookings": 1500
+            },
+            {
+                "name": "The Ritz-Carlton, Bali",
+                "picture": "https://example.com/ritz-carlton-bali.jpg",
+                "description": "A stunning beachfront resort on the island of Bali, offering luxurious accommodations and breathtaking views of the Indian Ocean.",
+                "pricing": 500,
+                "bookings": 800
+            },
+            {
+                "name": "Mandarin Oriental, Tokyo",
+                "picture": "https://example.com/mandarin-oriental-tokyo.jpg",
+                "description": "A five-star hotel located in the heart of Tokyo, offering exceptional service, stunning views of the city, and luxurious accommodations.",
+                "pricing": 600,
+                "bookings": 500
+            }
+        ]
     }
-  ]
-  
+]
