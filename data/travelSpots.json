@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Cox's Bazar",
+      "picture": "https://example.com/coxsbazar.jpg",
+      "description": "Cox's Bazar is a beach town located in the southeastern part of Bangladesh. It is known for its long sandy beach, which is one of the longest in the world."
+    },
+    {
+      "id": 2,
+      "name": "Sundarbans",
+      "picture": "https://example.com/sundarbans.jpg",
+      "description": "The Sundarbans is a mangrove forest located in the southwestern part of Bangladesh. It is home to the Royal Bengal Tiger and many other endangered species."
+    },
+    {
+      "id": 3,
+      "name": "Srimangal",
+      "picture": "https://example.com/srimangal.jpg",
+      "description": "Srimangal is a small town located in the northeastern part of Bangladesh. It is known for its tea gardens and is often referred to as the 'tea capital' of Bangladesh."
+    },
+    {
+      "id": 4,
+      "name": "Paharpur",
+      "picture": "https://example.com/paharpur.jpg",
+      "description": "Paharpur is an archaeological site located in the northern part of Bangladesh. It is home to the ruins of an ancient Buddhist monastery that dates back to the 8th century."
+    },
+    {
+      "id": 5,
+      "name": "Sajek Valley",
+      "picture": "https://example.com/sajekvalley.jpg",
+      "description": "Sajek Valley is a scenic hill station located in the northwestern part of Bangladesh. It is known for its picturesque landscapes and is a popular destination for trekking and hiking."
+    }
+  ]
+  
